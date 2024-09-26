@@ -1,0 +1,5 @@
+model\QLKhachHang.class
+gui\FrmQLKhachHang.class
+model\KhachHang.class
+gui\Program.class
+util\FileHelper.class
